@@ -22,3 +22,14 @@ export const Container = styled.View`
   para corrigir o o theme não ficar com tipo any nos criamos o arquivo @types (aqui não funciona pq
    não criei o provider e tudo no arquivo app)
 */
+
+/**
+  IMPORTANTE: caso ainda aconteça erro de tipagem volte uma versão atras no styled-components 
+  pois o erro pode ser um bug de atualização 
+
+   npm i styled-components@5.3.9
+   depois reinstale a versão mais atual com npm i styled-components
+
+
+
+*/
