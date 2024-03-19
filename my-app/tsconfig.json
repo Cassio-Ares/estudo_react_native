@@ -4,3 +4,25 @@
     "strict": true
   }
 }
+
+
+// {
+//   "extends": "expo/tsconfig.base",
+//   "compilerOptions": {
+//    "jsx": "react",
+//     "strict": true
+//   }
+// }
+
+
+
+// {
+//   "extends": "expo/tsconfig.base",
+//   "compilerOptions": {
+//     "strict": true
+//    "esModuleInterop": true,
+//   }
+// }
+
+// junto a estas mudanças caso aja erro vamos importar o react em todos os componetes 
+// import React from 'react';
