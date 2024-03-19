@@ -1,5 +1,10 @@
 /**
- * Apos instalações preciso importar: 
+ * ${({theme})=> theme.COLORS.PRIMARY}
+ * 
+ * estrutura para chamar os elementos de dentro do obj theme:
+ * 
+ * similar a um map ou desestruturação {({ nome do local } uma arrow function =>
+ *                                                            nome_do_arquivo. estrutura de busca em obj)}
  *    
  */
 
