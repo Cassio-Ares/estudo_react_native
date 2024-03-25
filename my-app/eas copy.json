@@ -1,0 +1,46 @@
+{
+  "cli": {
+    "version": ">= 7.6.1"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal"
+    },
+    "preview": {
+      "distribution": "internal"
+    },
+    "production": {}
+  },
+  "submit": {
+    "production": {}
+  }
+}
+
+{
+ // Arquivo criado mas não instalado somente de ex: para configuração 
+ // configuração para APK
+ {
+  "cli": {
+    "version": ">= 7.6.1"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal"
+    },
+    "preview": {
+      "android":{
+        "buildType": "apk"
+      }
+    },
+    "production": {}
+  },
+  "submit": {
+    "production": {}
+  }
+}
+  
+ //apos isso vamos rodar no terminal: eas build -p android --profile preview 
+ //                                   eas build -p (-p pede a plataforma android ou ios) -- profile -o ambiente (preview, production, ....)
+}
