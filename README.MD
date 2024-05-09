@@ -1,3 +1,33 @@
+# Estudo React Native
+
+Este repositório foi criado para estudar os fundamentos do desenvolvimento de aplicativos móveis com React Native, utilizando TypeScript e Expo. Seu objetivo é fornecer um ambiente de aprendizado para iniciantes em React Native, abordando conceitos básicos e práticas recomendadas.
+
+## Objetivo
+
+O principal objetivo deste projeto é aprender os conceitos básicos do desenvolvimento de aplicativos móveis com React Native, utilizando TypeScript para adicionar tipagem estática ao código e Expo para facilitar o desenvolvimento e o teste de aplicativos móveis.
+
+## Conteúdo
+
+O repositório inclui exemplos e exercícios para ajudar a compreender os seguintes tópicos:
+
+- Configuração do ambiente de desenvolvimento com Expo.
+- Criação de componentes básicos em React Native.
+- Navegação entre telas.
+- Manipulação de dados e estado.
+- Requisições HTTP utilizando Axios.
+- Estilização de componentes com StyleSheet.
+- Uso de TypeScript para adicionar tipagem estática ao código.
+
+## Como Utilizar
+
+Para utilizar este repositório, siga as instruções abaixo:
+
+1. Clone o repositório:
+
+
+git clone https://github.com/Cassio-Ares/estudo_react_native.git
+
+
 *React Native
 
 Install: 
